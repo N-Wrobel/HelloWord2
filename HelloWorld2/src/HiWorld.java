@@ -4,6 +4,6 @@ public class HiWorld {
 	public static void main(String args[]) {
 		System.out.println("Hello world!");
 		System.out.println("Today's date is " + Calendar.getInstance().getTime());
-		System.out.println("You have " + Runtime.getRuntime().totalMemory() + "total memory.");
+		System.out.println("You have " + Runtime.getRuntime().totalMemory() + " total memory.");
 	}
 }
